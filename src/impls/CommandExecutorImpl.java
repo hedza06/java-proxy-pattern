@@ -2,6 +2,9 @@ package impls;
 
 import services.CommandExecutor;
 
+/**
+ * Concrete implementation of command executor.
+ */
 public class CommandExecutorImpl implements CommandExecutor {
 
     @Override

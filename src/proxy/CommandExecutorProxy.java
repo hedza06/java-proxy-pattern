@@ -3,6 +3,9 @@ package proxy;
 import impls.CommandExecutorImpl;
 import services.CommandExecutor;
 
+/**
+ * Proxy Responsible For Controlling Command Executor.
+ */
 public class CommandExecutorProxy implements CommandExecutor {
 
     private boolean isAdmin;

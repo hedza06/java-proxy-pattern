@@ -1,7 +1,8 @@
 package services;
 
+
 /**
- *
+ * Definition of Command Executor Interface.
  */
 public interface CommandExecutor {
 
